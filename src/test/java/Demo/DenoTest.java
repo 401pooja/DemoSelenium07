@@ -9,6 +9,10 @@ public class DenoTest {
 	{
 		System.out.println("add");
 	}
+	public void subTest()
+	{
+		System.out.println("sub");
+	}
 	
 
 }
